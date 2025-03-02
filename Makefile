@@ -1,0 +1,1 @@
+CFLAGS = -Wextra -Werror -Wall

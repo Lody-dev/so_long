@@ -17,6 +17,7 @@
 
 /* INCLUDES */
 
+#include <stdio.h> // for standard printf
 # include <fcntl.h> // for open(), O_RDONLY, O_CREAT, O_WRONLY and O_TRUNC usage
 # include <stdarg.h> // for va_list, va_start, va_arg, va_end usage
 # include <stdlib.h> // for free(), malloc() and size_t usage
